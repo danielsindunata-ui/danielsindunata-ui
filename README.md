@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Daniel Sindunata 👋
 
-<!--
-**danielsindunata-ui/danielsindunata-ui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Junior Data Analyst | SQL • Python • Excel  
+📊 Background in Operations & Inventory Systems  
+📍 Indonesia  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I am a Junior Data Analyst with 3+ years of experience in operations within the hospitality industry. 
+
+My background in inventory management and sales performance analysis helped improve efficiency, reduce waste, and support data-driven decision making.
+
+Currently, I am strengthening my expertise in:
+
+- SQL (JOIN, GROUP BY, Subqueries)
+- Python (Pandas, NumPy, Matplotlib)
+- Excel (Pivot Tables, Power Query)
+- Exploratory Data Analysis
+- Business Performance Analysis
+
+I am actively seeking opportunities in:
+**Data Analytics • Business Intelligence • Operations Analytics**
+
+---
+
+## 📂 Portfolio Projects
+
+🔹 (Coming Soon) Sales Performance Analysis  
+🔹 (Coming Soon) Inventory Optimization Analysis  
+🔹 (Coming Soon) Customer Segmentation Project  
+
+---
+
+## 📫 Let's Connect
+
+- LinkedIn: https://linkedin.com/in/daniel-sindunata1
+- Email: daniel.sindunata@gmail.com
